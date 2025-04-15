@@ -13,7 +13,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/Rakesh-Shankar-Ghosh/React_E-Commerce.git
+  https://github.com/Rakesh-Shankar-Ghosh/React_E-Commerce.git
 ```
 
 Go to the project directory
